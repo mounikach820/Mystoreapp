@@ -1,0 +1,94 @@
+2022-08-02 15:01:12 INFO  Log:18 - =====================================loginTest TEST START=========================================
+2022-08-02 15:01:12 INFO  Log:29 - User is going to click on SignIn button
+2022-08-02 15:01:32 INFO  Log:29 - User enters Username and Password
+2022-08-02 15:01:38 INFO  Log:29 - Verifying if user is able to login
+2022-08-02 15:01:38 INFO  Log:29 - Login is successfull
+2022-08-02 15:01:38 INFO  Log:22 - =====================================loginTest TEST END=========================================
+2022-08-02 15:02:32 INFO  Log:18 - =====================================verifyCreateAccountPageTest TEST START=========================================
+2022-08-02 15:02:43 INFO  Log:22 - =====================================verifyCreateAccountPageTest TEST END=========================================
+2022-08-02 15:02:52 INFO  Log:18 - =====================================loginpage TEST START=========================================
+2022-08-02 15:02:52 INFO  Log:29 - ------------User is able to see the MyStoreTitle--------
+2022-08-02 15:02:52 INFO  Log:22 - =====================================loginpage TEST END=========================================
+2022-08-02 15:03:08 INFO  Log:18 - =====================================verifyLogo TEST START=========================================
+2022-08-02 15:03:08 INFO  Log:29 - Verifying the user is able to see the LOGO
+2022-08-02 15:03:08 INFO  Log:22 - =====================================verifyLogo TEST END=========================================
+2022-08-02 15:03:24 INFO  Log:18 - =====================================productAvailabilityTest TEST START=========================================
+2022-08-02 15:03:24 INFO  Log:29 - Verify user is able to search for the product
+2022-08-02 15:03:38 INFO  Log:29 - ---------Successfully user is able to search for the product------
+2022-08-02 15:03:38 INFO  Log:29 - Verify user is able to see the product is availabile or not
+2022-08-02 15:03:38 INFO  Log:29 - ---------Successfully User is able to see the product-------
+2022-08-02 15:03:38 INFO  Log:22 - =====================================productAvailabilityTest TEST END=========================================
+2022-08-02 15:03:52 INFO  Log:18 - =====================================WishListTest TEST START=========================================
+2022-08-02 15:03:52 INFO  Log:29 - User is going to click on Signin button
+2022-08-02 15:04:04 INFO  Log:29 - User enters the Username and Password coming from the config properties
+2022-08-02 15:04:12 INFO  Log:29 - Verify if user is able to see the WishList page
+2022-08-02 15:04:12 INFO  Log:22 - =====================================WishListTest TEST END=========================================
+2022-08-02 15:04:20 INFO  Log:18 - =====================================orderHistoryandDetailsTest TEST START=========================================
+2022-08-02 15:04:20 INFO  Log:29 - User is going to click on Signin button
+2022-08-02 15:04:24 INFO  Log:29 - User enters the Username and Password coming from the config properties
+2022-08-02 15:04:29 INFO  Log:29 - Verify if user is able to see order History and Details Page
+2022-08-02 15:04:29 INFO  Log:22 - =====================================orderHistoryandDetailsTest TEST END=========================================
+2022-08-02 15:04:38 INFO  Log:18 - =====================================addToCartTest TEST START=========================================
+2022-08-02 15:04:45 INFO  Log:29 - User is able to search for the product and going to click on the product
+2022-08-02 15:04:49 INFO  Log:29 - User is going to enter the quantity of the product
+2022-08-02 15:04:49 INFO  Log:29 - User is going to enter the size of the product
+2022-08-02 15:04:49 INFO  Log:29 - User is going to click on Add To Cart button
+2022-08-02 15:04:49 INFO  Log:29 - User is going to click on check out button
+2022-08-02 15:04:56 INFO  Log:29 - Verify user is able to see the Total Price and Total Expected Price
+2022-08-02 15:04:56 INFO  Log:29 - -------------Successfully user is able to see the Total price and Total Expected Price got matched--------
+2022-08-02 15:04:56 INFO  Log:22 - =====================================addToCartTest TEST END=========================================
+2022-08-02 15:05:08 INFO  Log:18 - =====================================addToCartTest TEST START=========================================
+2022-08-02 15:05:26 INFO  Log:22 - =====================================addToCartTest TEST END=========================================
+2022-08-04 09:27:58 INFO  Log:18 - =====================================loginTest TEST START=========================================
+2022-08-04 09:27:59 INFO  Log:29 - User is going to click on SignIn button
+2022-08-04 09:28:03 INFO  Log:29 - User enters Username and Password
+2022-08-04 10:02:37 INFO  Log:18 - =====================================loginTest TEST START=========================================
+2022-08-04 10:02:37 INFO  Log:29 - User is going to click on SignIn button
+2022-08-04 10:22:33 INFO  Log:18 - =====================================loginpage TEST START=========================================
+2022-08-04 10:22:33 INFO  Log:18 - =====================================loginpage TEST START=========================================
+2022-08-04 10:22:33 INFO  Log:29 - ------------User is able to see the MyStoreTitle--------
+2022-08-04 10:22:33 INFO  Log:29 - ------------User is able to see the MyStoreTitle--------
+2022-08-04 10:22:33 INFO  Log:22 - =====================================loginpage TEST END=========================================
+2022-08-04 10:22:33 INFO  Log:22 - =====================================loginpage TEST END=========================================
+2022-08-04 10:22:33 INFO  Log:18 - =====================================loginpage TEST START=========================================
+2022-08-04 10:22:33 INFO  Log:29 - ------------User is able to see the MyStoreTitle--------
+2022-08-04 10:22:33 INFO  Log:22 - =====================================loginpage TEST END=========================================
+2022-08-04 10:22:45 INFO  Log:18 - =====================================verifyLogo TEST START=========================================
+2022-08-04 10:22:45 INFO  Log:29 - Verifying the user is able to see the LOGO
+2022-08-04 10:22:45 INFO  Log:22 - =====================================verifyLogo TEST END=========================================
+2022-08-04 10:22:45 INFO  Log:18 - =====================================verifyLogo TEST START=========================================
+2022-08-04 10:22:46 INFO  Log:29 - Verifying the user is able to see the LOGO
+2022-08-04 10:22:46 INFO  Log:22 - =====================================verifyLogo TEST END=========================================
+2022-08-04 10:22:46 INFO  Log:18 - =====================================verifyLogo TEST START=========================================
+2022-08-04 10:22:46 INFO  Log:29 - Verifying the user is able to see the LOGO
+2022-08-04 10:22:46 INFO  Log:22 - =====================================verifyLogo TEST END=========================================
+2022-08-04 10:24:42 INFO  Log:18 - =====================================loginpage TEST START=========================================
+2022-08-04 10:24:42 INFO  Log:29 - ------------User is able to see the MyStoreTitle--------
+2022-08-04 10:24:42 INFO  Log:22 - =====================================loginpage TEST END=========================================
+2022-08-04 10:24:43 INFO  Log:18 - =====================================loginpage TEST START=========================================
+2022-08-04 10:24:43 INFO  Log:18 - =====================================loginpage TEST START=========================================
+2022-08-04 10:24:43 INFO  Log:29 - ------------User is able to see the MyStoreTitle--------
+2022-08-04 10:24:43 INFO  Log:22 - =====================================loginpage TEST END=========================================
+2022-08-04 10:24:43 INFO  Log:29 - ------------User is able to see the MyStoreTitle--------
+2022-08-04 10:24:43 INFO  Log:22 - =====================================loginpage TEST END=========================================
+2022-08-04 10:24:53 INFO  Log:18 - =====================================verifyLogo TEST START=========================================
+2022-08-04 10:24:53 INFO  Log:29 - Verifying the user is able to see the LOGO
+2022-08-04 10:24:53 INFO  Log:22 - =====================================verifyLogo TEST END=========================================
+2022-08-04 10:24:55 INFO  Log:18 - =====================================verifyLogo TEST START=========================================
+2022-08-04 10:24:55 INFO  Log:29 - Verifying the user is able to see the LOGO
+2022-08-04 10:24:55 INFO  Log:22 - =====================================verifyLogo TEST END=========================================
+2022-08-04 10:24:55 INFO  Log:18 - =====================================verifyLogo TEST START=========================================
+2022-08-04 10:24:55 INFO  Log:29 - Verifying the user is able to see the LOGO
+2022-08-04 10:24:55 INFO  Log:22 - =====================================verifyLogo TEST END=========================================
+2022-08-04 18:08:03 INFO  Log:18 - =====================================loginTest TEST START=========================================
+2022-08-04 18:08:03 INFO  Log:29 - User is going to click on SignIn button
+2022-08-04 18:08:20 INFO  Log:29 - User enters Username and Password
+2022-08-04 18:08:33 INFO  Log:29 - Verifying if user is able to login
+2022-08-04 18:08:33 INFO  Log:29 - Login is successfull
+2022-08-04 18:08:33 INFO  Log:22 - =====================================loginTest TEST END=========================================
+2022-08-05 14:32:52 INFO  Log:18 - =====================================loginTest TEST START=========================================
+2022-08-05 14:32:52 INFO  Log:29 - User is going to click on SignIn button
+2022-08-05 14:32:59 INFO  Log:29 - User enters Username and Password
+2022-08-05 14:33:06 INFO  Log:29 - Verifying if user is able to login
+2022-08-05 14:33:06 INFO  Log:29 - Login is successfull
+2022-08-05 14:33:06 INFO  Log:22 - =====================================loginTest TEST END=========================================
